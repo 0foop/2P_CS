@@ -1,0 +1,8 @@
+C:\2P_gr2\KonsolaCZ2\KonsolaCZ2\bin\Debug\KonsolaCZ2.exe.config
+C:\2P_gr2\KonsolaCZ2\KonsolaCZ2\bin\Debug\KonsolaCZ2.exe
+C:\2P_gr2\KonsolaCZ2\KonsolaCZ2\bin\Debug\KonsolaCZ2.pdb
+C:\2P_gr2\KonsolaCZ2\KonsolaCZ2\obj\Debug\KonsolaCZ2.csproj.AssemblyReference.cache
+C:\2P_gr2\KonsolaCZ2\KonsolaCZ2\obj\Debug\KonsolaCZ2.csproj.SuggestedBindingRedirects.cache
+C:\2P_gr2\KonsolaCZ2\KonsolaCZ2\obj\Debug\KonsolaCZ2.csproj.CoreCompileInputs.cache
+C:\2P_gr2\KonsolaCZ2\KonsolaCZ2\obj\Debug\KonsolaCZ2.exe
+C:\2P_gr2\KonsolaCZ2\KonsolaCZ2\obj\Debug\KonsolaCZ2.pdb
